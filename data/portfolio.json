@@ -1,0 +1,25 @@
+{
+  "name": "Tushar ",
+  "role": "Software Developer",
+  "tagline": "Versatile Software Engineer & Solution Architect",
+  "heroImageUrl": "https://img.freepik.com/free-photo/closeup-scarlet-macaw-from-side-view-scarlet-macaw-closeup-head_488145-3540.jpg?semt=ais_hybrid&w=740&q=80",
+  "about": "A seasoned Software Developer with over 30 years of experience in the technology sector. I specialize in architecting robust software solutions and translating complex requirements into scalable, efficient applications. My extensive background allows me to lead development projects with a focus on quality, innovation, and long-term maintainability.",
+  "experience": 30,
+  "currentRole": "SDE",
+  "highlights": [
+    "Doneallmajorshits"
+  ],
+  "skills": [
+    {
+      "name": "Master of all",
+      "skills": []
+    }
+  ],
+  "projects": [],
+  "contact": {
+    "email": "tj@adizen.ai",
+    "linkedin": "https://vercel.com/tusharjain4s-projects/~/settings",
+    "github": "https://vercel.com/tusharjain4s-projects/~/settings",
+    "twitter": "https://vercel.com/tusharjain4s-projects/~/settings"
+  }
+}
